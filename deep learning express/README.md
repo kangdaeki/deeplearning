@@ -1,20 +1,26 @@
 # 천인국, 딥러닝 Express
 
-Lab97.py -- 넘파이로 평균 제곱 오차 계산하기 (천인국, 딥러닝 Express)
+Lab62.ipynb -- 파이썬 복습
 
-Lab98.py -- 직선 그래프 (천인국, 딥러닝 Express)
+Lab67.ipynb -- 클래스
 
-Lab99-1.py -- 점선 그래프 (천인국, 딥러닝 Express)
+Lab71.ipynb -- 넘파이
 
-Lab99-2.py -- 막대 그래프 (천인국, 딥러닝 Express)
+Lab97.py -- 넘파이로 평균 제곱 오차 계산하기
 
-Lab100-1.py -- 히스토그램 (천인국, 딥러닝 Express)
+Lab98.py -- 직선 그래프
 
-Lab100-2.py -- 넘파이를 이용한 맵플롯립 (천인국, 딥러닝 Express)
+Lab99-1.py -- 점선 그래프
 
-Lab101.py -- 넘파이를 이용한 맵플롯립 (천인국, 딥러닝 Express)
+Lab99-2.py -- 막대 그래프
 
-Lab102.py -- 시그모이드 함수 (천인국, 딥러닝 Express)
+Lab100-1.py -- 히스토그램
+
+Lab100-2.py -- 넘파이를 이용한 맵플롯립
+
+Lab101.py -- 넘파이를 이용한 맵플롯립
+
+Lab102.py -- 시그모이드 함수
 
 
 58쪽 첫번째 줄: 
